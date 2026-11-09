@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jyothi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-09T20:49:56.612100524Z"
+    description: A Helm chart for Kubernetes
+    digest: fcbd6f1c3cb9bb000817ade93c7fb84530afc53195d73001a9ec11676bde1c61
+    name: jyothi
+    type: application
+    urls:
+    - jyothi-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-09T20:49:56.611251395Z"
